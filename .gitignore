@@ -1,0 +1,14 @@
+.bundle
+.sass-cache/
+.DS_Store
+db/*.sqlite3
+log/*.log
+tmp/**/*
+vendor/bundler_gems/**
+Gemfile.lock
+config/*.yml
+**~
+coverage/
+#*
+.#*
+*.swp
